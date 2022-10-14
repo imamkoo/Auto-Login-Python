@@ -5,7 +5,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
-username = "imam.ubaidillah@binus.ac.id" 
+username = "" 
 password = ""
 
 driver = webdriver.Chrome("E:/@BINUS OL/PYTHON/chromedriver")
