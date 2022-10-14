@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
 username = "imam.ubaidillah@binus.ac.id" 
-password = "AllahSWT."
+password = ""
 
 driver = webdriver.Chrome("E:/@BINUS OL/PYTHON/chromedriver")
 
